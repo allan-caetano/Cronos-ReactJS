@@ -52,12 +52,11 @@ input {
 
 button {
 	border: unset;
-	background-color: blueviolet;
-	border-radius: 5%;
+	background-color: unset;
 	font-family: inherit;
 	font-size: inherit;
 	font-weight: inherit;
-	color: white; 
+	color: inherit; 
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Manjari&display=swap');
